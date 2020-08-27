@@ -9,4 +9,4 @@ artifacts:
       -index.html
       -favicon.ico
       -style/main.css
-      -image/*
+      -images/*
